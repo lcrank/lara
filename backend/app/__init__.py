@@ -1,3 +1,0 @@
-"""
-WhatsApp Agent Backend Package
-"""
